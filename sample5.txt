@@ -1,0 +1,16 @@
+1	//Load 0 to AC
+0
+14	//X gets AC
+
+25	//X++
+10
+9	//Print AC as an int
+1
+16
+17
+
+20	//Jump to 3
+3
+
+.1000
+50
